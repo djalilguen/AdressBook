@@ -1,0 +1,4 @@
+Alain;Flouflou;;514-444-5555;alain.flouflou@gmail.com;ligne adresse 1; ligne adresse 2;Montreal; Québec; H2H2K3;CANADA
+Jean;Badou;;438-333-1122;jean.badou@hotmail.com; 1 Place du Souvenir;;Laval; Québec;H7V 3Z4;CANADA
+Clara;Allend;;514-332-0909;clara.allende@hotmail.com; 1 Place du Souvenir;;Laval; Québec;H7V 3Z4;CANADA
+Djalil;Guendouz;;455-999-3333;djalilgen@hotmail.com;Rue Ranger ;;Montreal;Québec;h2h1x1;Canada
